@@ -1,4 +1,4 @@
-### Haloha Welcome! 👋
+### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F776A4&random=false&width=435&lines=Nice+to+see+U;I+am+a+coder+but+so+lovely)](https://git.io/typing-svg) 👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amorynan&show_icons=true&theme=radical)
 
