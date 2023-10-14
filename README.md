@@ -2,6 +2,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amorynan&show_icons=true&theme=radical)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=amorynan&theme=radical&border_radius=10&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=amorynan)](https://github.com/ryo-ma/github-profile-trophy)
 
 
