@@ -4,6 +4,8 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=amorynan&theme=radical&border_radius=10&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amorynan&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=amorynan)](https://github.com/ryo-ma/github-profile-trophy)
 
 
