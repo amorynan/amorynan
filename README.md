@@ -1,6 +1,6 @@
 ### Haloha Welcome! 👋
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=amorynan)](https://github.com/amorynan/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=amorynan)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
